@@ -14,6 +14,7 @@
     
     <item>
       <title>Canxiang Yan</title>
+      <!--need_to_work-->
       <link>https://priya21101996.github.io/authors/canxiang-yan/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -23,6 +24,7 @@
     
     <item>
       <title>Dan Wang</title>
+      <!--need_to_work-->
       <link>https://priya21101996.github.io/authors/dan-wang/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -41,6 +43,7 @@
     
     <item>
       <title>Shiguang Shan</title>
+      <!--need_to_work-->
       <link>https://priya21101996.github.io/authors/shiguang-shan/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -54,7 +57,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://priya21101996.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Priyanka Singh is a software engineer specialized in deep learning, machine learning and computer vision. He is honored to have been working as a software engineer and a site reliablity engineer at Indeed - the world&amp;rsquo;s #1 job site in Tokyo, Japan and as an algorithm engineer at ByteDance AI Lab in Beijing, China.&lt;/p&gt;
+      <description>&lt;p&gt;Priyanka Singh is a Software Engineer majorly working for building Voice Communication skills be it in Alexa Skill, Google Action or a customized skill. Her work interests include AWS Services study and playing around it.
+Her interest also lies in full stack development technologies.
+
+She is honored to have been working as an Associate Software Engineer at Eaton - named to Fortune 500 and as a Software Engineer at Cerence Inc.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jianchao Li</title>
-    <link>https://jianchao-li.github.io/post/</link>
-    <description>Recent content in Posts on Jianchao Li</description>
+    <title>Posts on Priyanka Singh</title>
+    <link>https://priya21101996.github.io/post/</link>
+    <description>Recent content in Posts on Priyanka Singh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 29 Feb 2020 10:49:18 +0800</lastBuildDate>
     
-	    <atom:link href="https://jianchao-li.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://priya21101996.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interpret PyTorch Models with Captum</title>
-      <link>https://jianchao-li.github.io/post/interpret-pytorch-models-with-captum/</link>
+      <link>https://priya21101996.github.io/post/interpret-pytorch-models-with-captum/</link>
       <pubDate>Sat, 29 Feb 2020 10:49:18 +0800</pubDate>
       
-      <guid>https://jianchao-li.github.io/post/interpret-pytorch-models-with-captum/</guid>
+      <guid>https://priya21101996.github.io/post/interpret-pytorch-models-with-captum/</guid>
       <description>
 
 &lt;p&gt;While deep neural networks have achieved state-of-the-art performance in many problems(e.g., image classification, object detection, scene parsing etc.), it is always not trivial to intepret their outputs. Till now, the most common and useful way to interpret the output of a deep neural network is still by visualization. You may refer to this &lt;a href=&#34;http://cs231n.github.io/understanding-cnn/&#34; target=&#34;_blank&#34;&gt;CS231n course note&lt;/a&gt; for some introduction.&lt;/p&gt;
@@ -150,16 +150,16 @@ plt.imshow(vis)&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Now you can also apply the above technique (and more from Captum) to interpret the output of your PyTorch model. Have fun!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; This post is alao avaialble as a &lt;a href=&#34;https://gist.github.com/jianchao-li/f7b507bc66b2215e15cc0135f03c3ff9&#34; target=&#34;_blank&#34;&gt;Jupyter notebook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; This post is alao avaialble as a &lt;a href=&#34;https://gist.github.com/priya21101996/f7b507bc66b2215e15cc0135f03c3ff9&#34; target=&#34;_blank&#34;&gt;Jupyter notebook&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>From PyTorch to Core ML</title>
-      <link>https://jianchao-li.github.io/post/from-pytorch-to-coreml/</link>
+      <link>https://priya21101996.github.io/post/from-pytorch-to-coreml/</link>
       <pubDate>Wed, 16 Oct 2019 01:00:18 +0800</pubDate>
       
-      <guid>https://jianchao-li.github.io/post/from-pytorch-to-coreml/</guid>
+      <guid>https://priya21101996.github.io/post/from-pytorch-to-coreml/</guid>
       <description>
 
 &lt;p&gt;After working with PyTorch in my daily work for some time, recently I got a chance to work on something completely new - &lt;a href=&#34;https://developer.apple.com/documentation/coreml&#34; target=&#34;_blank&#34;&gt;Core ML&lt;/a&gt;. After converting a PyTorch model to the Core ML format and seeing it work in an iPhone 7, I believe this deserves a blog post.&lt;/p&gt;
@@ -248,10 +248,10 @@ model_coreml&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;save(&lt;spa
     
     <item>
       <title>Connecting Computer Vision and Natural Language</title>
-      <link>https://jianchao-li.github.io/post/connecting-computer-vision-and-natural-language/</link>
+      <link>https://priya21101996.github.io/post/connecting-computer-vision-and-natural-language/</link>
       <pubDate>Tue, 27 Nov 2018 15:36:00 +0800</pubDate>
       
-      <guid>https://jianchao-li.github.io/post/connecting-computer-vision-and-natural-language/</guid>
+      <guid>https://priya21101996.github.io/post/connecting-computer-vision-and-natural-language/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -344,17 +344,17 @@ model_coreml&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;save(&lt;spa
     
     <item>
       <title>Killing Pytorch Multi Gpu Training the Safe Way</title>
-      <link>https://jianchao-li.github.io/post/killing-pytorch-multi-gpu-training-the-safe-way/</link>
+      <link>https://priya21101996.github.io/post/killing-pytorch-multi-gpu-training-the-safe-way/</link>
       <pubDate>Fri, 02 Nov 2018 14:58:10 +0800</pubDate>
       
-      <guid>https://jianchao-li.github.io/post/killing-pytorch-multi-gpu-training-the-safe-way/</guid>
+      <guid>https://priya21101996.github.io/post/killing-pytorch-multi-gpu-training-the-safe-way/</guid>
       <description>
 
 &lt;p&gt;As you may have noticed from the title, this post is somewhat different from my previous ones. I would like to talk about a PyTorch DataLoader issue I encountered recently. I feel like devoting a post to it because it has taken me long time to figure out how to fix it.&lt;/p&gt;
 
 &lt;h2 id=&#34;memory-consumption&#34;&gt;Memory consumption&lt;/h2&gt;
 
-&lt;p&gt;Since my last post on &lt;a href=&#34;https://jianchao-li.github.io/2018/09/15/understanding-fully-convolutional-networks/&#34; target=&#34;_blank&#34;&gt;FCNs&lt;/a&gt;, I have been working on semantic segmentation. Nowadays, we have deep neural networks for it, like the state-of-the-art &lt;a href=&#34;https://arxiv.org/abs/1612.01105&#34; target=&#34;_blank&#34;&gt;PSPNet&lt;/a&gt; from CVPR 2017.&lt;/p&gt;
+&lt;p&gt;Since my last post on &lt;a href=&#34;https://priya21101996.github.io/2018/09/15/understanding-fully-convolutional-networks/&#34; target=&#34;_blank&#34;&gt;FCNs&lt;/a&gt;, I have been working on semantic segmentation. Nowadays, we have deep neural networks for it, like the state-of-the-art &lt;a href=&#34;https://arxiv.org/abs/1612.01105&#34; target=&#34;_blank&#34;&gt;PSPNet&lt;/a&gt; from CVPR 2017.&lt;/p&gt;
 
 &lt;p&gt;In practice, segmentation networks are &lt;strong&gt;much more memory-intensive&lt;/strong&gt; than recognition/classification networks. The reason is that semantic segmentation requires dense pixel-level predictions. For example, in the ImageNet classification task, you may use a neural network to transform a 224x224 image into 1000 real numbers (class probabilities). However, in semantic segmentation, suppose you have 20 semantic classes, you need to transform the 224x224 image into 20 224x224 probability maps, each representing probabilities of pixels belonging to one class. The output size changes from 1000 to 20x224x224=1003520, which is more than 1000 times!&lt;/p&gt;
 
@@ -502,7 +502,7 @@ GPU &lt;span style=&#34;color:#ae81ff&#34;&gt;6&lt;/span&gt; is good
 GPU &lt;span style=&#34;color:#ae81ff&#34;&gt;7&lt;/span&gt; is good&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;So, my GPUs 2 and 3 should be magically occupied by some zombie process. And I had to restart the machine to fix it. I think the zombie process was generated due to my incorrect way of killing the training program. So I decided not to use the kill button in the cloud GUI but logged into the docker container to kill it in the terminal.&lt;/p&gt;
 
-&lt;p&gt;I searched on Google for how to kill a PyTorch multi-GPU training program. And I found &lt;a href=&#34;https://discuss.pytorch.org/u/smth/summary&#34; target=&#34;_blank&#34;&gt;@smth&lt;/a&gt;&amp;rsquo;s suggestion in &lt;a href=&#34;https://discuss.pytorch.org/t/pytorch-doesnt-free-gpus-memory-of-it-gets-aborted-due-to-out-of-memory-error/13775/14?u=jianchao-li&#34; target=&#34;_blank&#34;&gt;this reply&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I searched on Google for how to kill a PyTorch multi-GPU training program. And I found &lt;a href=&#34;https://discuss.pytorch.org/u/smth/summary&#34; target=&#34;_blank&#34;&gt;@smth&lt;/a&gt;&amp;rsquo;s suggestion in &lt;a href=&#34;https://discuss.pytorch.org/t/pytorch-doesnt-free-gpus-memory-of-it-gets-aborted-due-to-out-of-memory-error/13775/14?u=priya21101996&#34; target=&#34;_blank&#34;&gt;this reply&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;@rabst
@@ -731,10 +731,10 @@ GPU &lt;span style=&#34;color:#ae81ff&#34;&gt;7&lt;/span&gt; is good&lt;/code&gt
     
     <item>
       <title>Understanding Fully Convolutional Networks</title>
-      <link>https://jianchao-li.github.io/post/understanding-fully-convolutional-networks/</link>
+      <link>https://priya21101996.github.io/post/understanding-fully-convolutional-networks/</link>
       <pubDate>Sat, 15 Sep 2018 19:29:22 +0800</pubDate>
       
-      <guid>https://jianchao-li.github.io/post/understanding-fully-convolutional-networks/</guid>
+      <guid>https://priya21101996.github.io/post/understanding-fully-convolutional-networks/</guid>
       <description>
 
 &lt;p&gt;Fully convolutional networks, or FCNs, were proposed by &lt;a href=&#34;http://people.eecs.berkeley.edu/~jonlong/&#34; target=&#34;_blank&#34;&gt;Jonathan Long&lt;/a&gt;, &lt;a href=&#34;http://imaginarynumber.net/&#34; target=&#34;_blank&#34;&gt;Evan Shelhamer&lt;/a&gt; and &lt;a href=&#34;https://people.eecs.berkeley.edu/~trevor/&#34; target=&#34;_blank&#34;&gt;Trevor Darrell&lt;/a&gt; in CVPR 2015 as a framework for semantic segmentation.&lt;/p&gt;
@@ -2094,10 +2094,10 @@ def compose_fp_list(fp_list):
     
     <item>
       <title>A Dive Into Visual Question Answering</title>
-      <link>https://jianchao-li.github.io/post/a-dive-into-visual-question-answering/</link>
+      <link>https://priya21101996.github.io/post/a-dive-into-visual-question-answering/</link>
       <pubDate>Mon, 27 Aug 2018 14:34:35 +0800</pubDate>
       
-      <guid>https://jianchao-li.github.io/post/a-dive-into-visual-question-answering/</guid>
+      <guid>https://priya21101996.github.io/post/a-dive-into-visual-question-answering/</guid>
       <description>
 
 &lt;p&gt;I have been very interested in the interplay between vision and natural language for some time. In these years, an emerging research topic combined these two areas. That is, visual question answering (VQA). Recently, I made a dive into this topic and wrote some notes as you are reading now.&lt;/p&gt;
@@ -2118,7 +2118,7 @@ def compose_fp_list(fp_list):
 &lt;p&gt;in 1966, Marvin Minsky at MIT asked his undergraduate student Gerald Jay Sussman to spend the summer linking a camera to a computer and getting the computer to describe what it saw&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This &lt;em&gt;see-and-describe&lt;/em&gt; summarizes the original goal of the pioneers of computer vision: let the computer see the world around it (expressed in images) and describe it. In terms of this goal, a highly related task is image captioning, which I played with in &lt;a href=&#34;https://jianchao-li.github.io/2018/08/08/playing-with-image-captioning.html&#34; target=&#34;_blank&#34;&gt;this post&lt;/a&gt;. However, image captioning typically gives a general description of the image. If we would like the computer to describe some specific details, a natural way is to ask it to do so explicitly, which is what we do in VQA.&lt;/p&gt;
+&lt;p&gt;This &lt;em&gt;see-and-describe&lt;/em&gt; summarizes the original goal of the pioneers of computer vision: let the computer see the world around it (expressed in images) and describe it. In terms of this goal, a highly related task is image captioning, which I played with in &lt;a href=&#34;https://priya21101996.github.io/2018/08/08/playing-with-image-captioning.html&#34; target=&#34;_blank&#34;&gt;this post&lt;/a&gt;. However, image captioning typically gives a general description of the image. If we would like the computer to describe some specific details, a natural way is to ask it to do so explicitly, which is what we do in VQA.&lt;/p&gt;
 
 &lt;p&gt;The second reason that accounts for the significance of VQA is its potential to become an &lt;em&gt;AI-complete&lt;/em&gt; task [3]. Most tasks in artificial intelligence, especially computer vision, can be kind of boiled down to answering questions over images. For example, image classification is to answer a multiple-choice question of the category of an image.&lt;/p&gt;
 
@@ -2186,10 +2186,10 @@ def compose_fp_list(fp_list):
     
     <item>
       <title>Playing With Image Captioning</title>
-      <link>https://jianchao-li.github.io/post/playing-with-image-captioning/</link>
+      <link>https://priya21101996.github.io/post/playing-with-image-captioning/</link>
       <pubDate>Wed, 08 Aug 2018 20:12:45 +0800</pubDate>
       
-      <guid>https://jianchao-li.github.io/post/playing-with-image-captioning/</guid>
+      <guid>https://priya21101996.github.io/post/playing-with-image-captioning/</guid>
       <description>
 
 &lt;p&gt;I have been fascinated by image captioning for some time but still have not played with it. I gave it a try today using the open source project &lt;a href=&#34;https://github.com/karpathy/neuraltalk2&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;neuraltalk2&lt;/code&gt;&lt;/a&gt; written by &lt;a href=&#34;https://cs.stanford.edu/people/karpathy/&#34; target=&#34;_blank&#34;&gt;Andrej Karpathy&lt;/a&gt;.&lt;/p&gt;
